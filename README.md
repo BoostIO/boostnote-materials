@@ -3,8 +3,25 @@
 
 Feel free to use images on your blog :D
 
-## 1. Logo
-![name](./materials/$name)
+## 1. Logo(svg)
+![logo-svg](./materials/logo.svg)
 
 ---
 
+## 2. Logo(png)
+![logo-png](./materials/logo.png)
+
+---
+
+## 3. Logo with text
+![logo-with-text](./materials/logo_with_text.svg)
+
+---
+
+## 4. App UI
+![app-ui](./materials/app.svg)
+
+---
+
+## 5. App with logo
+![app-with-logo](./materials/app_with_logo.svg)

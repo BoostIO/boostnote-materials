@@ -7,6 +7,8 @@ Feel free to use images on your blog :D
 ## 1. Logo(svg)
 ![logo-svg](./materials/logo.svg)
 
+![logo-square](./materials/logo-square-svg.svg)
+
 ---
 
 ## 2. Logo(png)
